@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Github Trending Widget
+ * Plugin Name: Github Trending Repositories
  * Description: Show Trending Github Repositories
  * Version: 1.0
  * Author: Aqib Gatoo

@@ -3,7 +3,7 @@ Contributors: aqibgatoo
 Tags: widgets,github,repositories
 Requires at least: 3.0
 Tested up to: 4.1.1
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
