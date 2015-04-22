@@ -51,11 +51,11 @@ class github_widget extends WP_Widget {
 		}
 
 		if ( $repositories !== false ) {
-
-		} else {	echo '<ul>';
+             echo '<ul>';
 			for ( $i = 0; $i < 6; $i ++ ) {
 				echo "<li><a href='" . $repositories->repoUrl[$i] . "'>" . $repositories->repoName[$i] . "</a></li>";
 			}
+		} else {	
 			echo "<p>Unable to fetch data.Try again</p>";
 		}
 
